@@ -1,0 +1,30 @@
+PODS:
+  - SnapKit (5.0.1)
+  - TMComponent (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - SnapKit (~> 5.0.0)
+  - TMComponent (from `https://github.com/RoyJoel/TMComponent.git`, tag `0.8.7`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  TMComponent:
+    :git: https://github.com/RoyJoel/TMComponent.git
+    :tag: 0.8.7
+
+CHECKOUT OPTIONS:
+  TMComponent:
+    :git: https://github.com/RoyJoel/TMComponent.git
+    :tag: 0.8.7
+
+SPEC CHECKSUMS:
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  TMComponent: 6b100f06dddd9ece8eee1eaa6ca16bc22ed5f5db
+
+PODFILE CHECKSUM: 2a91b5fd3040311f681b0279c267b440a0e29363
+
+COCOAPODS: 1.11.3
